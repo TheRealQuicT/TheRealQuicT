@@ -8,19 +8,19 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: Readme-Workflows/recent-activity@main
+      - uses: actions/checkout@v3
+      - uses: TheRealQuicT/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          CONFIG_FILE: "./.github/config.yml"
 
       - uses: actions-js/profile-readme@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          username: therealquict
+          username: TheRealQuicT
           template: "README.md"
 
       - uses: actions-js/push@v1.3
