@@ -1,18 +1,9 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealQuicT)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://raw.githubusercontent.com/TheRealQuicT/TheRealQuicT/main/intro.gif" alt="👋🏼 Hi, I'm QuicT!" title="👋🏼 Hi, I'm QuicT!"/>
+<div align="justify">
 
-
-<!--
-**TheRealQuicT/TheRealQuicT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TheRealQuicT&rank_icon=github&show_icons=true&hide=issues,contribs&include_all_commits=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheRealQuicT&layout=compact&langs_count=8&card_width=200&theme=radical" />
+</a>
