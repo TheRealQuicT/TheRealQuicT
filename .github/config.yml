@@ -7,8 +7,8 @@ settings:
     - "issues"
     - "push"
   date:
-    timezone: "MDT"
-    text: '<h5 align="center">Lastly Updated On: <b>{DATE} IST</b></h5>'
+    timezone: "MDST"
+    text: '<h5 align="center">Lastly Updated On: <b>{DATE} MDT</b></h5>'
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
     commit_name: "readme-Bot"
 messages:
