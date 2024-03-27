@@ -7,7 +7,7 @@ settings:
     - "issues"
     - "push"
   date:
-    timezone: "MDST"
+    timezone: "America/Cambridge_Bay"
     text: '<h5 align="center">Lastly Updated On: <b>{DATE} MDT</b></h5>'
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
     commit_name: "readme-Bot"
