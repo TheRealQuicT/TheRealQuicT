@@ -80,8 +80,7 @@ Welcome to my Github Page! I am a Computer Science Student looking to make some 
   <img src="https://komarev.com/ghpvc/?username=TheRealQuicT&label=PROFILE+VIEWS&style=plastic&color=brightgreen">
 </details>
 
-### :zap: Recent Activity
+## :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
