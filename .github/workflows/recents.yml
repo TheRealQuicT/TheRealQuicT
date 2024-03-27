@@ -2,7 +2,7 @@ name: Recent Activity
 
 on:
   schedule:
-    - cron: "43 6,18 * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -20,7 +20,7 @@ jobs:
       - uses: actions-js/profile-readme@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          username: vinuxd
+          username: therealquict
           template: "README.md"
 
       - uses: actions-js/push@v1.3
