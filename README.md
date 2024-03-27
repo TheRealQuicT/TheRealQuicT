@@ -69,9 +69,7 @@ Welcome to my Github Page! I am a Computer Science Student looking to make some 
 <details>
   <summary>Most Used Languages 🛠️</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheRealQuicT&layout=compact&langs_count=8&card_width=200&theme=radical" />
-    </a>
+
 </details>
 
 <details>
