@@ -77,7 +77,7 @@ Welcome to my Github Page! I am a Computer Science Student looking to make some 
 <details>
   <summary>Profile Views :eyes:</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=TheRealQuicT&label=PROFILE+VIEWS&style=plastic&color=brightgreen">
+  <img src="https://komarev.com/ghpvc/?username=TheRealQuicT&style=flay&color=brightgreen&abbreviated=true">
 </details>
 
 ## :zap: Recent Activity
