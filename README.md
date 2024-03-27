@@ -86,3 +86,6 @@ Welcome to my Github Page! I am a Computer Science Student looking to make some 
 
 ---
 
+<!--RECENT_ACTIVITY:last_update-->
+<h5 align="center">Lastly Updated On: <b>Wednesday, March 27th, 2024, 12:14:49 PM IST</b></h5>
+<!--RECENT_ACTIVITY:last_update_end-->
