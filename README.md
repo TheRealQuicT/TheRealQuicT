@@ -89,5 +89,5 @@ Welcome to my Github Page! I am a Computer Science Student looking to make some 
 
 ---
 
-<!--START_SECTION:wakatime-stats-->
-<!--END_SECTION:wakatime-stats-->
+<!--START_SECTION:waka-simple-->
+<!--END_SECTION:waka-simple-->
