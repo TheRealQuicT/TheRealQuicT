@@ -83,9 +83,9 @@ Welcome to my Github Page! I am a Computer Science Student looking to make some 
 
 ## :zap: Recent Activity
 
-<!--RECENT_ACTIVITY:start-->
+<!--START_SECTION:activity-->
 
-<!--RECENT_ACTIVITY:last_update-->
+<!--END_SECTION:activity-->
 
 ---
 
