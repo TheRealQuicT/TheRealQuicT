@@ -69,6 +69,9 @@ Welcome to my Github Page! I am a Computer Science Student looking to make some 
 <details>
   <summary>Most Used Languages 🛠️</summary>
   <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealQuicT&layout=compact&theme=radical" />
+    </a>
 
 </details>
 
