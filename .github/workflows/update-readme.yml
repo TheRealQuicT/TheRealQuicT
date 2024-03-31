@@ -15,9 +15,3 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Update README
-        run: |
-          echo "Last updated on: $(date)" > README.md
-          git config --local user.name "GitHub Action"
-          git commit -m "Update README with last updated timestamp" README.md || exit 0
-          git push
