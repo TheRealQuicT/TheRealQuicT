@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - 'README.md'
 
 jobs:
   update-readme:
@@ -13,8 +11,20 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-      
+
+      # Check if README.md is modified
+      - name: Check if README.md is modified
+        id: check_readme
+        run: |
+          if git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -q README.md; then
+            echo "::set-output name=modified::true"
+          else
+            echo "::set-output name=modified::false"
+          fi
+          
+      # Update README if it's modified
       - name: Update Timestamp
+        if: steps.check_readme.outputs.modified == 'true'
         run: |
           sed -i "s|<!--LAST_UPDATED_TIMESTAMP_START-->.*<!--LAST_UPDATED_TIMESTAMP_END-->|<!--LAST_UPDATED_TIMESTAMP_START-->\nLast updated on: $(date '+%A, %B %dth at %H:%M')\n<!--LAST_UPDATED_TIMESTAMP_END-->|" README.md
           git config --local user.name "GitHub Action"
