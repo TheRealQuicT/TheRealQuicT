@@ -87,5 +87,5 @@ Welcome to my Github Page! I am a Computer Science Student looking to make some 
 <!--END_SECTION:activity-->
 
 ---
-Last updated on: $(date "+%A, %B %dth at %H:%M %Z")
-Last updated on: $(date "+%A, %B %dth at %H:%M %Z")
+<!--LAST_UPDATED_TIMESTAMP-->
+srg
