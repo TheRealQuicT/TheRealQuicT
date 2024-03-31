@@ -14,7 +14,7 @@ jobs:
       
       - name: Update Timestamp
         run: |
-          sed -i "s|<!--LAST_UPDATED_TIMESTAMP-->|Last updated on: $(date '+%Y-%m-%d %H:%M:%S')|" README.md
+          sed -i "s|<!--LAST_UPDATED_TIMESTAMP-->|Last updated on: $(date '+%A, %B %dth at %H:%M')|" README.md
           echo >> README.md  # Add a newline
           echo "<!-- Timestamp Placeholder -->" >> README.md
           git config --local user.email "action@github.com"
