@@ -15,7 +15,7 @@ jobs:
       # Update README
       - name: Update Timestamp
         run: |
-          sed -i '/<!--LAST_UPDATED_TIMESTAMP-->/,+1s/.*/Last updated on: $(date "+%A, %B %dth at %H:%M %Z")/' README.md
+          sed -i '/<!--LAST_UPDATED_TIMESTAMP-->/!b;n;c\Last updated on: $(date "+%A, %B %dth at %H:%M %Z")' README.md
           git config --local user.name "GitHub Action"
           git commit -m "Update README with last updated timestamp" README.md || exit 0
           git push
