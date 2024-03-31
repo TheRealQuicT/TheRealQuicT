@@ -88,6 +88,3 @@ Welcome to my Github Page! I am a Computer Science Student looking to make some 
 <!--END_SECTION:activity-->
 
 ---
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
