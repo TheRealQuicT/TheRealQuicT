@@ -1,0 +1,21 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      
+      - name: Update README
+        run: |
+          sed -i 's|<!--LAST_UPDATED_TIMESTAMP-->|Last updated on: $(date)|' README.md
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Update README with last updated timestamp" README.md || exit 0
+          git push
