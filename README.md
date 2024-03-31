@@ -87,4 +87,4 @@ Welcome to my Github Page! I am a Computer Science Student looking to make some 
 <!--END_SECTION:activity-->
 
 ---
-Last updated on: $(date)
+<!--LAST_UPDATED_TIMESTAMP-->
