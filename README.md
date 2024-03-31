@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/TheRealQuicT/TheRealQuicT/main/intro.gif" alt="👋🏼 Hi, I'm QuicT!" title="👋🏼 Hi, I'm QuicT!"/>
 <p></p>
 <p align="justify">
-Welcome to my Github Page! I am a Computer Science Student looking to make some fun and intersting builds that I hope to share on here in the future. small change
+Welcome to my Github Page! I am a Computer Science Student looking to make some fun and intersting builds that I hope to share on here in the future.
 </p>
 <p></p>
 
