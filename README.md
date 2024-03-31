@@ -88,4 +88,4 @@ Welcome to my Github Page! I am a Computer Science Student looking to make some 
 
 ---
 <!--LAST_UPDATED_TIMESTAMP-->
-Last updated on: $(date "+%A, %B %dth at %H:%M %Z")
+so close
