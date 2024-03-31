@@ -12,7 +12,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
       
-      - name: Update README
+      - name: Update Timestamp
         run: |
           sed -i 's|<!--LAST_UPDATED_TIMESTAMP-->|Last updated on: $(date)|' README.md
           git config --local user.email "action@github.com"
