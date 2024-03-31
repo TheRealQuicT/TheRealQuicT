@@ -87,5 +87,3 @@ Welcome to my Github Page! I am a Computer Science Student looking to make some 
 <!--END_SECTION:activity-->
 
 ---
-<!--LAST_UPDATED_TIMESTAMP-->
-Last updated on: Sunday, March 31th at 01:22 UTC
