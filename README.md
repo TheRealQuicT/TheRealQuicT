@@ -89,5 +89,5 @@ Welcome to my Github Page! I am a Computer Science Student looking to make some 
 
 ---
 
-<!--START_SECTION:waka-simple-->
-<!--END_SECTION:waka-simple-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
