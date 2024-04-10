@@ -62,7 +62,7 @@ Welcome to my Github Page! I am a Computer Science Student looking to make some 
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TheRealQuicT&rank_icon=github&show_icons=true&hide=issues,contribs&include_all_commits=true&theme=radical" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TheRealQuicT&rank_icon=github&show_icons=true&hide=issues,contribs&theme=radical" />
     </a>
 </details>
 
@@ -82,9 +82,14 @@ Welcome to my Github Page! I am a Computer Science Student looking to make some 
 </details>
 
 ## :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealQuicT&repo=Auto-Coffee" />
+  </a>
+  <!-- Example to copy. After the first 3 place a <br/> to go to new line
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealQuicT&repo=Repo-name" />
+  </a>
+  -->
 
 ---
 <!--LAST_UPDATED_TIMESTAMP-->
