@@ -62,7 +62,7 @@ Welcome to my Github Page! I am a Computer Science Student looking to make some 
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TheRealQuicT&rank_icon=github&show_icons=true&hide=issues,contribs&theme=radical" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheRealQuicT&rank_icon=github&show_icons=true&hide=issues,contribs&theme=radical" />
     </a>
 </details>
 
