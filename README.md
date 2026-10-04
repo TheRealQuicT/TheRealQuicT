@@ -3,7 +3,9 @@
 I'm **Julien Phillips**, a full-stack developer and **Business Systems Specialist at [Goodwill Industries of Alberta](https://goodwill.ab.ca)**. I build web apps, client websites, Discord bots and automation that make work run smoother.
 
 - 💼 Business Systems Specialist at Goodwill Industries of Alberta (since June 2025)
+- 🎓 Diploma in Digital Media and IT (DMIT) from [NAIT](https://www.nait.ca), concentration in Computer Software Development
 - 🌐 Portfolio: **[phillipslabs.net](https://phillipslabs.net)**
+- 🔗 LinkedIn: **[Julien Phillips](https://www.linkedin.com/in/julien-phillips-014a191b0/)**
 - 🛠️ Building client sites and apps with Next.js, Astro, React and Supabase
 - ⚡ Fun fact: one of my repos brews my coffee
 
